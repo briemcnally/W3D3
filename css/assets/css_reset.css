@@ -1,0 +1,20 @@
+html, body, header, nav, ul, li, aside, section, figure, figcaption, h1, h2, p, ol, form, label, input, option, footer {
+  margin: 0;
+  padding: 0;
+  border:0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+body {
+  line-height:1.5;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+img {
+  width:100%;
+}
